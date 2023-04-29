@@ -11,7 +11,9 @@ On my GitHub profile, you'll find a selection of projects that I've worked on . 
 I'm always looking for opportunities to collaborate with others on interesting projects, so if you're interested in working together or just want to connect, feel free to reach out.
 
 Currently, I'm working on a opensource Hot air rework station design.You can check it out here: [uStream](https://github.com/KimagureCookie/uStream). 
+
 #Skills
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
