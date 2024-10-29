@@ -6,7 +6,7 @@
 
 
 Hey there 👋
-I'm Nandish, a engineering graduate in Electronics and Instrumentation, who's passionate about electronic designs and anything Technical.
+I'm Nandish, a PCB Designer , who's passionate about electronic designs and anything Technical.
 I believe that open source is a great way to learn and collaborate with others in the industry, and I'm excited to be a part of it.
 I'm always looking for opportunities to collaborate with others on interesting projects, so if you're interested in working together or just want to connect, feel free to reach out.
 
